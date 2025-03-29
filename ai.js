@@ -45,7 +45,7 @@ function takecommand(message){
         speak("hello sir,What can i do for you?");
     }
     else if(message.includes("what is your name")){
-        speak("my name is rounak anand");
+        speak("my name is Aaryan");
     }
     else if(message.includes("who are you")){
         speak("iam an virtual assistance , created by sir kumar Aaryan");
